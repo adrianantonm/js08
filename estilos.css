@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+#izq{
+    width: 200px;
+    position: fixed;
+    background-color: #566f8a;
+    color: white;
+    padding: 10px;
+    height: 100%;
+}
+#der{
+    position: absolute;
+    width: 700px;
+    right: 0;
+}
